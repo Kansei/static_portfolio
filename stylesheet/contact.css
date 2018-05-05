@@ -1,0 +1,20 @@
+p{
+  margin-top: 250px;
+  text-align: center;
+}
+
+.contact{
+  font-family: 'Alegreya Sans SC', sans-serif;
+  margin-top: 100px;
+  text-align: center;
+  font-size: 50px;
+}
+.contact a{
+  color: black;
+  text-decoration: none;
+}
+
+.contact li{
+  list-style:none;
+  padding: 10px;
+}

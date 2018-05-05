@@ -1,0 +1,14 @@
+.pics{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.pics table{
+  margin-left: auto;
+  margin-right: auto;
+}
+.pics img{
+  width: 360px;
+  height: 240px;
+  margin:1px;
+}

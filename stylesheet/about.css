@@ -1,0 +1,28 @@
+.about{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+div.about img{
+    width:  350px;
+    height: 350px;
+    border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
+    background-position: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+div.about ul{
+  /* margin-left: 70px; */
+  margin-top: 0;
+}
+
+.about table{
+  color: #4c4d4f;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+  text-align: left;
+  font-size: 20px;
+  line-height: 30px;
+}

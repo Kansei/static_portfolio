@@ -1,0 +1,48 @@
+body{
+  margin:0;
+  padding:0;
+  /* background-size: contain; */
+  background-color: white;
+}
+
+.header{
+  font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+div.header .me{
+  color: black;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+}
+
+div.header .me h1{
+  font-size: 70px;
+  font-weight: bold;
+  margin: 0;
+}
+
+div.header .me h2{
+  font-size: 40px;
+  margin: 0;
+}
+
+div.header .menu{
+  color: #75797f;
+}
+
+div.header .menu ul{
+  font-size: 40px;
+  margin-top: 10px;
+  margin-bottom: 12px;
+  list-style:none;
+}
+div.header .menu li{
+   display: inline-block;
+   margin-left: 30px;
+   margin-right: 30px;
+ }
+ div.header .menu a{
+   color: #75797f;
+   text-decoration: none;
+ }
